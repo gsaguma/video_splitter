@@ -6,4 +6,4 @@ Script for splitting long videos into clips.
 - thinker: pip install tk
 
 ### Usage
-Run video_splitter.py, select a video, the duration in secsm and a folder.
+Run video_splitter.py. Then select a video, the duration in secs, and a folder in which all clips will be saved.
